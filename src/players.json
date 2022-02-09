@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Diogo Jota",
+    "position": "Forward",
+    "image": "/images/jota.png"
+  },
+  {
+    "name": "Naby Keita",
+    "position": "Midfielder",
+    "image": "/images/keita.png"
+  },
+  {
+    "name": "Joel Matip",
+    "position": "Defender",
+    "image": "/images/matip.png"
+  },
+  {
+    "name": "Alisson",
+    "position": "Goalkeeper",
+    "image": "/images/alisson.png"
+  },
+  {
+    "name": "Virgil Van Dijk",
+    "position": "Defender",
+    "image": "/images/van-dijk.png"
+  },
+  {
+    "name": "Fabinho",
+    "position": "Midfielder",
+    "image": "/images/fabinho.png"
+  },
+  {
+    "name": "Trent Alexander Arnold",
+    "position": "Defender",
+    "image": "/images/trent.png"
+  },
+  {
+    "name": "Andy Robertson",
+    "position": "Defender",
+    "image": "/images/robertson.png"
+  },
+  {
+    "name": "Jordan Henderson",
+    "position": "Midfielder",
+    "image": "/images/henderson.png"
+  },
+  {
+    "name": "Caoimhaion Kelleher",
+    "position": "Goalkeeper",
+    "image": "/images/kelleher.png"
+  },
+  {
+    "name": "Sadio Mane",
+    "position": "Forward",
+    "image": "/images/mane.png"
+  },
+  {
+    "name": "Thiago Alcantara",
+    "position": "Midfield",
+    "image": "/images/thiago.png"
+  },
+  {
+    "name": "Divock Origi",
+    "position": "Forward",
+    "image": "/images/origi.png"
+  }
+]
