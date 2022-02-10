@@ -6,9 +6,10 @@ export interface CardProps {
   name: string;
   position: string;
   image: string;
+  number?: number;
 }
 
-export const Card: React.FC<CardProps> = ({}) => {
+export const Card: React.FC<CardProps> = ({ name, position, image, number }) => {
   const [order, setOrder] = useState(players);
 
   const sortByAge = () => {
