@@ -9,7 +9,7 @@ export interface AppProps {
 export const App: React.FC<AppProps> = ({ card }) => {
   return (
     <div className="bg-pl-grey flex justify-center">
-      <Card name="name" position="pos" image="image" />
+      <Card name="Liverpool F.C" />
     </div>
   );
 };
