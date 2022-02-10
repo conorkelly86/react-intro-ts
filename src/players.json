@@ -2,66 +2,85 @@
   {
     "name": "Diogo Jota",
     "position": "Forward",
-    "image": "/images/jota.png"
+    "image": "/images/jota.png",
+    "number": 20
   },
   {
     "name": "Naby Keita",
     "position": "Midfielder",
-    "image": "/images/keita.png"
+    "image": "/images/keita.png",
+    "number": 8
   },
   {
     "name": "Joel Matip",
     "position": "Defender",
-    "image": "/images/matip.png"
+    "image": "/images/matip.png",
+    "number": 32
   },
   {
     "name": "Alisson",
     "position": "Goalkeeper",
-    "image": "/images/alisson.png"
+    "image": "/images/alisson.png",
+    "number": 1
   },
   {
     "name": "Virgil Van Dijk",
     "position": "Defender",
-    "image": "/images/van-dijk.png"
+    "image": "/images/van-dijk.png",
+    "number": 5
   },
   {
     "name": "Fabinho",
     "position": "Midfielder",
-    "image": "/images/fabinho.png"
+    "image": "/images/fabinho.png",
+    "number": 4
   },
   {
     "name": "Trent Alexander Arnold",
     "position": "Defender",
-    "image": "/images/trent.png"
+    "image": "/images/trent.png",
+    "number": 66
   },
   {
     "name": "Andy Robertson",
     "position": "Defender",
-    "image": "/images/robertson.png"
+    "image": "/images/robertson.png",
+    "number": 3
   },
   {
     "name": "Jordan Henderson",
     "position": "Midfielder",
-    "image": "/images/henderson.png"
+    "image": "/images/henderson.png",
+    "number": 14
   },
   {
     "name": "Caoimhaion Kelleher",
     "position": "Goalkeeper",
-    "image": "/images/kelleher.png"
+    "image": "/images/kelleher.png",
+    "number": 62
   },
   {
     "name": "Sadio Mane",
     "position": "Forward",
-    "image": "/images/mane.png"
+    "image": "/images/mane.png",
+    "number": 10
   },
   {
     "name": "Thiago Alcantara",
     "position": "Midfield",
-    "image": "/images/thiago.png"
+    "image": "/images/thiago.png",
+    "number": 6
   },
   {
     "name": "Divock Origi",
     "position": "Forward",
-    "image": "/images/origi.png"
+    "image": "/images/origi.png",
+    "number": 27
+  },
+  {
+    "name": "Takumi Minamino",
+    "position": "Forward",
+    "image": "",
+    "number": 18
   }
 ]
